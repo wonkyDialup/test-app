@@ -1,0 +1,104 @@
+{
+
+"products": [
+    { 
+        "id": 1,
+        "make": "Stout",
+        "model": "Scarab",
+        "year": "1930",
+        "color": "Silver",
+        "price": "87,000",
+        "image": "https://bit.ly/3nuF3xW"
+     },
+    { 
+        "id": 2,
+        "make": "Mazda",
+        "model": "RX-500",
+        "year": "1970",
+        "color": "Silver",
+        "price": "2,000,000",
+        "image": "https://bit.ly/3Ek6oK8"
+     },
+    { 
+        "id": 3,
+        "make": "Renault",
+        "model": "5 6x6",
+        "year": "1980",
+        "color": "Silver",
+        "price": "67,900",
+        "image": "https://bit.ly/2ZozMzu"
+     },
+    { 
+        "id": 4,
+        "make": "Sbarro",
+        "model": "Challenge III",
+        "year": "1988",
+        "color": "Chrome Illusion",
+        "price": "34,4175",
+        "image": "https://bit.ly/3vOqrxd"
+     },
+    { 
+        "id": 5,
+        "make": "Lamborghini",
+        "model": "Vanborghini",
+        "year": "1983",
+        "color": "White",
+        "price": "645,000",
+        "image": "https://bit.ly/2Zr6lwZ"
+     },
+    { 
+        "id": 6,
+        "make": "Renault",
+        "model": "Racoon",
+        "year": "1993",
+        "color": "Red",
+        "price": "27,000",
+        "image": "https://bit.ly/30SxZ6z"
+     },
+    { 
+        "id": 7,
+        "make": "Bugatti",
+        "model": "Hyper Truck",
+        "year": "2020",
+        "color": "Blue",
+        "price": "8,200,000",
+        "image": "https://bit.ly/3jGVGVY"
+     },
+    { 
+        "id": 8,
+        "make": "Studebaker",
+        "model": "Manta Ray",
+        "year": "1951",
+        "color": "Pink",
+        "price": "300,000",
+        "image": "https://bit.ly/3Ck3eFs"
+     },
+    { 
+        "id": 9,
+        "make": "GP",
+        "model": "Limo",
+        "year": "1997",
+        "color": "Red",
+        "price": "475,000",
+        "image": "https://bit.ly/2ZoHr0I"
+     },
+    { 
+        "id": 10,
+        "make": "Amish",
+        "model": "Jet Powered Buggy",
+        "year": "2019",
+        "color": "Black",
+        "price": "65,000",
+        "image": "https://bit.ly/3nuQmX4"
+     },
+    { 
+        "id": 11,
+        "make": "International",
+        "model": "Harvester Wood Wagon",
+        "year": "2021",
+        "color": "Black",
+        "price": "375,000",
+        "image": "https://bit.ly/3Bhg5Hj"
+     }
+    ]
+}
